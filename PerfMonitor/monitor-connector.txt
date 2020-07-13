@@ -1,0 +1,8 @@
+Connectivity:
+
+Run from an elevated CMD prompt: Watchdog\Proxy
+perfmonitor.exe listen *Citrix-CloudServices-SignalBusClient
+
+Run connectivity check:
+
+C:\Program Files\Citrix\CloudServices\Connectivity Test\Citrix.CloudServices.ConnectivityCheck.UI.exe is the tool and it will log to C:\ProgramData\Citrix\WorkspaceCloud\Logs\Plugins\ConnectivityCheck
